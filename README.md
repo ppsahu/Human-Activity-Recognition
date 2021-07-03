@@ -2,7 +2,8 @@
 This project is to build a model that predicts the human activities such as Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing or Laying.
 
 
-If you want to have the dataset, download the zip file.
+If you want to have the dataset, download from here:
+https://drive.google.com/file/d/118toouH8ifByKJHmmowyjOjGyir-YAvi/view
 
 To load the dataset into jupyter notebook, follow the below code and extract the zip file.
 
