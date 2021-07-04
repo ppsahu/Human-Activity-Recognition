@@ -9,7 +9,11 @@ https://drive.google.com/file/d/118toouH8ifByKJHmmowyjOjGyir-YAvi/view
 To load the dataset into jupyter notebook, follow the below code and extract the zip file.
 
 (Source: https://stackoverflow.com/questions/34734714/ipython-jupyter-uploading-folder)
+
 import zipfile as zf
+
 files = zf.ZipFile("ZippedFolder.zip", 'r')
+
 files.extractall('directory to extract')
+
 files.close()
